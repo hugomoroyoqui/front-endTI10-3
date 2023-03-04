@@ -86,7 +86,7 @@
                      <div class="row">
                         <div class="col-md-6">
                            <div class="container">
-                              <h1 class="banner_taital">Get Medical Care early</h1>
+                              <h1 class="banner_taital">IDGS</h1>
                               <p class="banner_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
                               <div class="more_bt"><a href="#">Read More</a></div>
                            </div>
@@ -100,7 +100,7 @@
                      <div class="row">
                         <div class="col-md-6">
                            <div class="container">
-                              <h1 class="banner_taital">Get Medical Care early</h1>
+                              <h1 class="banner_taital">10-3</h1>
                               <p class="banner_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
                               <div class="more_bt"><a href="#">Read More</a></div>
                            </div>
